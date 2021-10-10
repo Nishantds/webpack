@@ -1,0 +1,9 @@
+- django
+- home page
+- webpack
+- webpack-dev-server
+- hot module replacement with js
+- hot module replacement with css
+- babel
+- react
+- react-hot-loader
